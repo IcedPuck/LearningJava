@@ -11,9 +11,6 @@ public class ClassObejct_Packet {
 
         int moveSpeed; //移动速度
     }
-    public void step2(Weapon_Item w){
-
-    }
 
     public static void main(String[] args) {
         ClassObejct_Packet packet = new ClassObejct_Packet();
